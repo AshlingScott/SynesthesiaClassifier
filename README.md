@@ -1,2 +1,2 @@
 # SynesthesiaClassifier
-Data Mining Project to classify types of synesthesia in Classic Literature
+Data Mining Project to classify types of synesthesia in Classic Literature.  A database featuring thousands of works of classic literature was mined in order to find sentence fragments containing multiple sensory words, and the frequency with which certain senses were paired together was analyzed to discover patterns in how sensory words are used together in classic literature.
